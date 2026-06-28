@@ -1,12 +1,18 @@
-<!-- 1. 最常用语言：下方留出 15 像素的间距 -->
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&v=2027" style="margin-bottom: 15px;" />
-
-<!-- 2. 基础数据统计：下方同样留出 15 像素的间距 -->
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2027" style="margin-bottom: 15px;" />
-
-<!-- 3. 连续提交卡片：最后一张，不需要加下方间距 -->
-<img align="right" width="380" src="https://streak-stats.demolab.com/?user=aaANDkk&v=2027" />
-
+<!-- 右侧卡片区域：通过单独的靠右表格，用原生的 <br/> 强行撑开上下间距 -->
+<table align="right" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&v=2028" />
+      <br/><br/> <!-- 强行撑开第一和第二张图的间距 -->
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="380" src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2028" />
+      <br/><br/> <!-- 强行撑开第二和第三张图的间距 -->
+    </td>
+  </tr>
+</table>
 ### 📊 公开处刑现场
 
 [![GitHub Roast](https://githubroast.dev/api/badge/aaANDkk)](https://githubroast.dev/u/aaANDkk)
