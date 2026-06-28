@@ -23,8 +23,7 @@
 <br/>
 
 #### 🎯 About Me
-🔍 眼睛似乎不太行
-📝 争取早日摆脱“私人作业云盘”的称号
+争取早日摆脱“私人作业云盘”的称号
 
 <!-- 底部的动态打字机 -->
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00599C&width=350&lines=Undergrad+Student;Focus+on+sleeping)
