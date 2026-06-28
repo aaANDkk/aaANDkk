@@ -1,17 +1,9 @@
-<td width="40%" valign="top">
+<img align="right" height="195" src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github" />
 
-<h3>📊 公开处刑现场</h3>
+### 📊 公开处刑现场
 
-<a href="https://githubroast.dev/u/aaANDkk">
-  <img src="https://githubroast.dev/api/badge/aaANDkk">
-</a>
+[![GitHub Roast](https://githubroast.dev/api/badge/aaANDkk)](https://githubroast.dev/u/aaANDkk)
 
-<br><br>
+![](https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat)
 
-<img src="https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00599C&center=false&vCenter=true&width=350&lines=Undergrad+Student;Focus+on+sleeping">
-
-</td>
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00599C&width=350&lines=Undergrad+Student;Focus+on+sleeping)
