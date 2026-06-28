@@ -1,4 +1,7 @@
 
+<!-- 底部的动态打字机 -->
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00599C&width=350&lines=Undergrad+Student;Focus+on+sleeping)
+
 <!-- 1. 最常用语言：下方留出 15 像素的间距 -->
 <img align="left" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&v=2027" style="margin-bottom: 15px;" />
 
@@ -20,6 +23,3 @@
 <img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Wireshark-167EBA?style=flat&logo=wireshark&logoColor=white" />
 
 <img src="https://img.shields.io/badge/WSL2-0078D4?style=flat&logo=windows&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
-
-<!-- 底部的动态打字机 -->
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00599C&width=350&lines=Undergrad+Student;Focus+on+sleeping)
