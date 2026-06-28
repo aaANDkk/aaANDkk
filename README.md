@@ -13,14 +13,16 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Undergrad+Student;Focus+on+sleeping&v=2026)
 
 </div>
+<!-- This flex container forces the children (the cards) to always remain on one line -->
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: center; align-items: flex-start;">
 
-<div align="center">
-  <!-- 1. 最常用语言：统一缩放至 495px 宽，下方紧贴 10px 间距 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&v=2026" alt="Top Languages" width="495px" style="margin-bottom: 10px;" />
-  
-  <!-- 2. 基础数据统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2026" alt="GitHub Stats" width="495px" style="margin-bottom: 10px;" />
-  
-  <!-- 3. 最下方的连续提交卡片 -->
-  <img src="https://streak-stats.demolab.com/?user=aaANDkk&v=2026" alt="GitHub Streak" width="495px" />
+  <!-- Card 1: Languages (using compact layout) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&v=2026&layout=compact" alt="Top Languages" height="165px" style="margin-right: 5px; flex-shrink: 0;" />
+
+  <!-- Card 2: Stats (using compact layout to match width better) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2026&layout=compact" alt="GitHub Stats" height="165px" style="margin-right: 5px; flex-shrink: 0;" />
+
+  <!-- Card 3: Streak -->
+  <img src="https://streak-stats.demolab.com/?user=aaANDkk&v=2026" alt="GitHub Streak" height="165px" style="flex-shrink: 0;" />
+
 </div>
