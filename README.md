@@ -1,7 +1,11 @@
 <!-- 1. 最常用语言：下方留出 15 像素的间距 -->
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&v=2027" style="margin-bottom: 15px;" />
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2026" style="margin-bottom: 5px;" />
+<!-- 2. 基础数据统计：下方同样留出 15 像素的间距 -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2027" style="margin-bottom: 15px;" />
+
+<!-- 3. 连续提交卡片：最后一张，不需要加下方间距 -->
+<img align="right" width="380" src="https://streak-stats.demolab.com/?user=aaANDkk&v=2027" />
 
 ### 📊 公开处刑现场
 
@@ -22,7 +26,7 @@
 <br/>
 
 #### 🎯 About Me
-* 🔍 偶尔跟抓包数据斗智斗勇
+* 🔍 眼睛似乎不太行
 * 📝 争取早日摆脱“私人作业云盘”的称号
 
 <!-- 底部的动态打字机 -->
