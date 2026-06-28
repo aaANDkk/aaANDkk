@@ -12,15 +12,13 @@
 
 #### 🛠️ Tech Stack & Tools
 
-<!-- 第一排：Linux 和 Wireshark -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Wireshark-167EBA?style=flat&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
-<!-- 第二排：Python 和 C++ -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
 
-<!-- 第三排：WSL2 和 VMware -->
+<img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Wireshark-167EBA?style=flat&logo=wireshark&logoColor=white" />
+
 <img src="https://img.shields.io/badge/WSL2-0078D4?style=flat&logo=windows&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
-<br/>
 
 #### 🎯 About Me
 争取早日摆脱“私人作业云盘”的称号
