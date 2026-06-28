@@ -1,4 +1,11 @@
-<img align="right" height="195" src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github" />
+<!-- 1. 最常用语言（靠右） -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&v=2026" style="margin-bottom: 5px;" />
+
+<!-- 2. 基础数据统计（靠右） -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2026" style="margin-bottom: 5px;" />
+
+<!-- 3. 连续提交卡片（靠右） -->
+<img align="right" width="380" src="https://streak-stats.demolab.com/?user=aaANDkk&v=2026" />
 
 ### 📊 公开处刑现场
 
