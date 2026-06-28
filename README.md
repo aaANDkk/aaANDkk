@@ -13,14 +13,6 @@
 
 ---
 
-### 🛠️ 技能树与工具箱 (Tech Stack)
-
-#### 💻 编程语言
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-#### 🌐 网络安全 & 实验环境
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Wireshark-167EBA?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-
 ---
 
 ### 📈 实时动态数据统计 (GitHub Stats)
