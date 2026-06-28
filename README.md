@@ -19,10 +19,18 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <!-- 三张卡片横向紧贴，统一限制高度为 165px 以免撑破页面宽度 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&v=2026&layout=compact" alt="Top Languages" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2026" alt="GitHub Stats" height="165px" />
-  <img src="https://streak-stats.demolab.com/?user=aaANDkk&v=2026" alt="GitHub Streak" height="165px" />
+  <!-- 1. 最常用语言 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&v=2026" alt="Top Languages" height="195px" />
+  
+  <br/><br/>
+  
+  <!-- 2. 基础数据统计 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2026" alt="GitHub Stats" height="195px" />
+  
+  <br/><br/>
+  
+  <!-- 3. 连续提交卡片 -->
+  <img src="https://streak-stats.demolab.com/?user=aaANDkk&v=2026" alt="GitHub Streak" />
 </div>
 
 ---
