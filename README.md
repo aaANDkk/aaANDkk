@@ -1,7 +1,6 @@
 <div align="center">
 <!-- 动态打字机效果 -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Undergraduate+Student;)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Undergraduate+Student;Computer+Science+Explorer;Focusing+on+Network+Security)
 <br/>
 
 ### 📊 公开处刑现场
