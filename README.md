@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 动态打字机效果 -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Undergraduate+Student;Computer+Science+Explorer;Focusing+on+Network+Security)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Undergraduate+Student;Focus+on+Sleeping)
   
 <br/>
 
@@ -24,11 +24,6 @@
   <!-- 2. 还原 图片_2.png 最下方的 连续提交（Streak）卡片 -->
   <img src="https://streak-stats.demolab.com/?user=aaANDkk&v=2026" alt="GitHub Streak" />
 </div>
-
----
-
-### 📝 碎碎念
-* 🎯 **Current Goal:** 争取早日摆脱“私人作业云盘”的称号
 
 ---
 
