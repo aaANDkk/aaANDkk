@@ -13,20 +13,17 @@
 
 ---
 
----
-
 ### 📈 实时动态数据统计 (GitHub Stats)
 
 <div align="center">
   <table border="0">
     <tr>
-      <!-- 核心数据统计卡片 -->
+      <!-- 使用稳健的中国区镜像源，彻底解决白屏不显示问题 -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&theme=radial&rank_icon=github" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.gitsub.cn/api?username=aaANDkk&show_icons=true&theme=radial&rank_icon=github" alt="GitHub Stats" />
       </td>
-      <!-- 常用语言分析卡片 -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&theme=radial" alt="Top Languages" />
+        <img src="https://github-readme-stats.gitsub.cn/api/top-langs/?username=aaANDkk&layout=compact&theme=radial" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -35,14 +32,11 @@
 ---
 
 ### 📝 碎碎念 (About Me)
-* 🎓 一名普通的计算机系本科生，正在为更远大的学业目标努力闭关复习中 📝
-* 🛠️ 经常在 WSL2 和虚拟机里折腾各种网络实验，偶尔跟抓包数据斗智斗勇
-* 🤖 对 AI 创作和新奇的自动化工具非常感兴趣
-* 🎯 **Current Goal:** 努力提升代码提交量，争取早日摆脱“私人作业云盘”的称号！
+* 🎯 **Current Goal:** 争取早日摆脱“私人作业云盘”的称号
 
 ---
 
 <div align="center">
   <!-- 访客计数器（每次有人看你主页，数字会自动加 1） -->
-  <img src="https://profile-counter.glitch.me/aaANDkk/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div>
