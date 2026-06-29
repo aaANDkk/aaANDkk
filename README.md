@@ -17,15 +17,4 @@
 
 ![](https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat)
 
-### 🛠️ Tech Stack & Tools
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
-
-<img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Wireshark-167EBA?style=flat&logo=wireshark&logoColor=white" />
-
-<img src="https://img.shields.io/badge/WSL2-0078D4?style=flat&logo=windows&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
-<br clear="all" />
-<br/>
 
