@@ -13,6 +13,6 @@
 
 ![](https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat)
 
-💤 **核心技术**: 精通 `Sleep()` 函数的深度调用与日常实践
+💤 **核心技术**: 精通 `Sleep()` 函数
 
 ---
