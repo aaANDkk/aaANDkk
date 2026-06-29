@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat)
 
-* 💤 **核心技术**: 精通 `Sleep()` 函数的深度调用与日常实践
-* 🎯 **终极目标**: 熬最深的夜，睡最香的觉
+💤 **核心技术**: 精通 `Sleep()` 函数的深度调用与日常实践
+🎯 **终极目标**: 熬最深的夜，睡最香的觉
   
 ---
