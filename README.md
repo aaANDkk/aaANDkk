@@ -17,4 +17,10 @@
 
 ![](https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat)
 
+### 👨‍💻 About Me
 
+* 💤 **核心技术**: 精通 `Sleep()` 函数的深度调用与日常实践
+* 🚀 **当前状态**: 正在为了高阶副本刷怪练级中
+* 🎯 **终极目标**: 熬最深的夜，睡最香的觉
+
+---
