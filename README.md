@@ -6,8 +6,6 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&v=2027" style="margin-bottom: 15px;" /> 
 
----
-
 ### 👨‍💻 About Me
 
 [![GitHub Roast](https://githubroast.dev/api/badge/aaANDkk)](https://githubroast.dev/u/aaANDkk)
@@ -15,5 +13,3 @@
 ![](https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat)
 
 💤 **核心技术**: 精通 `Sleep()` 函数的调用
-
----
