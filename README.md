@@ -1,26 +1,18 @@
 <div align="center">
-  <!-- 打字机效果 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00599C&width=350&center=true&vCenter=true&lines=Undergraduated+Student;Focus+on+sleeping&v=2026" alt="Typing SVG" />
-
-  <p align="center">
-    <!-- 访问量统计 -->
-    <img src="https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat" alt="Views" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00599C&width=350&center=true&vCenter=true&lines=Undergraduated+Student;Focus+on+sleeping&v=2026" alt="Typing SVG" />
 </div>
 
-### 💀 公开处刑现场
+<!-- 1. 最常用语言：下方留出 15 像素的间距 -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&v=2027" style="margin-bottom: 15px;" />
 
-<p align="center">
-  [![GitHub Roast](https://githubroast.dev/api/badge/aaANDkk)](https://githubroast.dev/u/aaANDkk)
-</p>
+<!-- 2. 基础数据统计：下方同样留出 15 像素的间距 -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2027" style="margin-bottom: 15px;" />
 
-### 📊 GitHub 统计数据 / Stats
 
-<p align="center">
-  <!-- 最常用语言 -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&v=2027" style="margin-bottom: 15px;" /><br/>
-  <!-- 基础数据统计 -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=aaANDkk&show_icons=true&rank_icon=github&v=2027" />
-</p>
+###  
 
----
+### 📊 公开处刑现场
+
+[![GitHub Roast](https://githubroast.dev/api/badge/aaANDkk)](https://githubroast.dev/u/aaANDkk)
+
+![](https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat)
