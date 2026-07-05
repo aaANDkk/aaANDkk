@@ -3,8 +3,7 @@
 </div>
 
  <!-- 1. 最常用语言：下方留出 15 像素的间距 -->
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&v=2027" style="margin-bottom: 15px;" /> 
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaANDkk&layout=compact&langs_count=5" style="margin-bottom: 15px;" />
 
 ### 👨‍💻 About Me
 
