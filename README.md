@@ -12,4 +12,8 @@
 
 ![](https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat)
 
-💤 **核心技术**：精通 `Sleep()` 函数的调用
+💤 **核心技术**
+
+* 精通 `Sleep()` 函数的调用
+* 擅长把 `TODO` 留给未来的自己
+
