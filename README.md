@@ -21,16 +21,12 @@ while (alive) {
 }
 ```
 
-- 🎓 **身份**：在读本科生 / Undergraduate Student
-- 💤 **专长**：把最难的 Bug 留给明天的自己，精通摸鱼与深度睡眠
-- 🎯 **目标**：写出不需要重构的代码（大概）
-
 ---
 
 ### 🛠️ 技术栈 / Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown,flutter" alt="My Skills" />
 </div>
 
 ---
