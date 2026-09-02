@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00599C&width=350&center=true&vCenter=true&lines=Undergraduate+Student;Focus+on+sleeping&v=2026" alt="Typing SVG" />
 
   <p align="center">
+    <a href="https://githubroast.dev/u/aaANDkk"><img src="https://img.shields.io/badge/GitHub-Roast-ff5722?style=flat&logo=github" alt="GitHub Roast" /></a>
     <img src="https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat" alt="Views" />
   </p>
 
