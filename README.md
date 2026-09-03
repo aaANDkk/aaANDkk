@@ -34,9 +34,8 @@ while (alive) {
 ### 📊 GitHub 统计 / Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=aaANDkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="aaANDkk's GitHub Stats" height="180" />
   <a href="https://ghfind.com/u/aaandkk?ref=badge">
-    <img src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" height="180" />
+    <img src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
   </a>
 </div>
 
