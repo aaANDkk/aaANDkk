@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00599C&width=350&center=true&vCenter=true&lines=Undergraduate+Student;Focus+on+sleeping&v=2026" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://githubroast.dev/u/aaANDkk"><img src="https://img.shields.io/badge/GitHub-Roast-ff5722?style=flat&logo=github" alt="GitHub Roast" /></a>
+    <a href="https://ghfind.com/u/aaandkk?ref=badge"><img src="https://ghfind.com/api/badge/aaandkk" alt="GitHub Roast 评分徽章" /></a>
     <img src="https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat" alt="Views" />
   </p>
 
@@ -34,5 +34,9 @@ while (alive) {
 ### 📊 GitHub 统计 / Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=aaANDkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="aaANDkk's GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=aaANDkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="aaANDkk's GitHub Stats" height="180" />
+  <a href="https://ghfind.com/u/aaandkk?ref=badge">
+    <img src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" height="180" />
+  </a>
 </div>
+
