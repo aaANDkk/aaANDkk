@@ -11,6 +11,16 @@
 
 ---
 
+### 📊 GitHub 统计 / Stats
+
+<div align="center">
+  <a href="https://ghfind.com/u/aaandkk?ref=badge">
+    <img src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
+  </a>
+</div>
+
+---
+
 ### 👨‍💻 关于我 / About Me
 
 ```c
@@ -27,15 +37,5 @@ while (alive) {
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown,flutter" alt="My Skills" />
-</div>
-
----
-
-### 📊 GitHub 统计 / Stats
-
-<div align="center">
-  <a href="https://ghfind.com/u/aaandkk?ref=badge">
-    <img src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
-  </a>
 </div>
 
