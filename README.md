@@ -11,7 +11,7 @@
 
 ---
 
-### 📊 GitHub 统计 / Stats
+### 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 
 <div align="center">
   <a href="https://ghfind.com/u/aaandkk?ref=badge">
@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻 关于我 / About Me
+### 👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 
 ```c
 while (alive) {
@@ -33,7 +33,7 @@ while (alive) {
 
 ---
 
-### 🛠️ 技术栈 / Tech Stack
+### 🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown,flutter" alt="My Skills" />
