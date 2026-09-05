@@ -11,15 +11,16 @@
 
 <br/>
 
-### 👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
-
 <a href="https://ghfind.com/u/aaandkk?ref=badge">
   <img align="right" src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
 </a>
 
+### 👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
+
 Hey there! 👋 I'm **金城武 (aaANDkk)**.
 
 - 🎓 **Status**: CS Undergraduate
+- 💻 **Stack**: C/C++ · Python · Flutter · Linux
 - 😴 **Core Skill**: 精通各类高并发 `Sleep()`
 - ☕ **Fuel**: 咖啡因与 Bug 转换器
 - 💡 **Philosophy**: 这不是 BUG，是未声明的特性
