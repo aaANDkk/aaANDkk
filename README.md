@@ -12,37 +12,23 @@
 <br/>
 
 <a href="https://ghfind.com/u/aaandkk?ref=badge">
-  <img align="right" width="420" src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
+  <img align="right" src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
 </a>
 
 ### 👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 
-```c
-struct Life {
-    bool alive;
-    int  bugs;
-    int  coffee_cups;
-};
+Hey there! 👋 I'm **金城武 (aaANDkk)**.
 
-void routine(struct Life *me) {
-    while (me->alive) {
-        me->coffee_cups++;
-        write_code();
-
-        if (found_bug()) {
-            // 这不是BUG，是未声明的特性
-            mark_as_feature();
-        }
-
-        sleep(); // 核心技能：高并发阻塞式睡眠
-    }
-}
-```
+- 🎓 **Status**: CS Undergraduate
+- 😴 **Core Skill**: 精通各类高并发 `Sleep()`
+- ☕ **Fuel**: 咖啡因与 Bug 转换器
+- 💡 **Philosophy**: 这不是 BUG，是未声明的特性
 
 <br clear="both"/>
+<br/>
 
 ### 🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown,flutter" alt="My Skills" />
 </p>
