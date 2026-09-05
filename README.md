@@ -7,35 +7,32 @@
     <img src="https://komarev.com/ghpvc/?username=aaANDkk&label=Views&color=0e75b6&style=flat" alt="Views" />
   </p>
 
-</div>
+  <br/>
 
----
-
-### 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
-
-<div align="center">
+  <h3>📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</h3>
   <a href="https://ghfind.com/u/aaandkk?ref=badge">
     <img src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
   </a>
-</div>
 
----
+  <br/><br/>
 
-### 👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
+  <h3>👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h3>
 
-```c
-while (alive) {
+  <table align="center">
+    <tr>
+      <td align="left">
+        <pre><code>while (alive) {
     study();
     sleep(); // 核心技术：精通各类高并发 Sleep()
     // TODO: 留给未来的自己去实现
-}
-```
+}</code></pre>
+      </td>
+    </tr>
+  </table>
 
----
+  <br/>
 
-### 🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
+  <h3>🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h3>
+  <p><img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown,flutter" alt="My Skills" /></p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown,flutter" alt="My Skills" />
 </div>
-
