@@ -15,21 +15,34 @@
   <tr>
     <td valign="top" width="50%">
       <h3 align="left">👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h3>
-      <pre><code>while (alive) {
+      <pre><code>/*
+ * 🧑‍💻 Name   : 金城武 (aaANDkk)
+ * 🎓 Role   : CS Undergraduate
+ * 🎯 Focus  : C/C++ · Python · Flutter · Linux
+ * ☕ Energy : 0xFFFFFFFF
+ */
+
+while (alive) {
     study();
+    coffee.consume();
     sleep(); // 核心技术：精通各类高并发 Sleep()
+    
     // TODO: 留给未来的自己去实现
+    if (bug_count > 0) {
+        it_is_a_feature();
+    }
 }</code></pre>
-      <h3 align="left">🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h3>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown,flutter" alt="My Skills" />
-      </p>
     </td>
     <td valign="top" align="center" width="50%">
       <h3 align="center">📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</h3>
       <a href="https://ghfind.com/u/aaandkk?ref=badge">
         <img src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
       </a>
+      <br/><br/>
+      <h3 align="center">🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown,flutter" alt="My Skills" />
+      </p>
     </td>
   </tr>
 </table>
