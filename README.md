@@ -11,31 +11,38 @@
 
 <br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td valign="top" width="50%" align="center">
-      <h3 align="center">👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h3>
-      <pre align="left"><code>/*
- * 🧑‍💻 金城武 (aaANDkk)
- * 🎓 CS Undergraduate
- * 🎯 C/C++ · Python · Flutter · Linux
- */
+<a href="https://ghfind.com/u/aaandkk?ref=badge">
+  <img align="right" width="420" src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
+</a>
 
-while (alive) {
-    study();
-    coffee.consume();
-    sleep(); // 核心技术：各类高并发 Sleep()
-}</code></pre>
-    </td>
-    <td valign="top" width="50%" align="center">
-      <h3 align="center">📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</h3>
-      <a href="https://ghfind.com/u/aaandkk?ref=badge">
-        <img src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
-      </a>
-      <h3 align="center">🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown,flutter" alt="My Skills" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
+
+```c
+struct Life {
+    bool alive;
+    int  bugs;
+    int  coffee_cups;
+};
+
+void routine(struct Life *me) {
+    while (me->alive) {
+        me->coffee_cups++;
+        write_code();
+
+        if (found_bug()) {
+            // 这不是BUG，是未声明的特性
+            mark_as_feature();
+        }
+
+        sleep(); // 核心技能：高并发阻塞式睡眠
+    }
+}
+```
+
+<br clear="both"/>
+
+### 🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,markdown,flutter" alt="My Skills" />
+</p>
