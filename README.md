@@ -22,5 +22,4 @@
 - 🎯 **Target**: 留给未来的自己去实现
 - 😴 **Core Skill**: 精通各类高并发 `Sleep()`
 - ☕ **Fuel**: 咖啡因与 Bug 转换器
-- ⚡ **Superpower**: 只要我不看控制台，报错就追不上我
 - 💡 **Philosophy**: 这不是 BUG，是未声明的特性
