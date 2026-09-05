@@ -15,9 +15,10 @@
   <img align="right" src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
 </a>
 
-Hey there! 👋 I'm **金城武 (aaANDkk)**.
+𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚! 👋 𝙄'𝙢 **金城武 (𝙖𝙖𝘼𝙉𝘿𝙠𝙠)**.
 
 - 🎓 **Status**: CS Undergraduate
+- 🎯 **Target**: 留给未来的自己去实现
 - 😴 **Core Skill**: 精通各类高并发 `Sleep()`
 - ☕ **Fuel**: 咖啡因与 Bug 转换器
 - 💡 **Philosophy**: 这不是 BUG，是未声明的特性
