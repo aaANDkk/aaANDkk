@@ -11,13 +11,11 @@
 
 <br/>
 
+### 👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
+
 <a href="https://ghfind.com/u/aaandkk?ref=badge">
   <img align="right" src="https://ghfind.com/api/card/mini/aaandkk" alt="GitHub Roast 评分卡" />
 </a>
-
-<p>&nbsp;</p>
-
-### 👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 
 Hey there! 👋 I'm **金城武 (aaANDkk)**.
 
