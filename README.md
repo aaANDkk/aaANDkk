@@ -26,10 +26,7 @@ while (alive) {
     study();
     coffee.consume();
     sleep(); // 核心技术：精通各类高并发 Sleep()
-    
-    // TODO: 留给未来的自己去实现
-    if (bug_count > 0) {
-        it_is_a_feature();
+
     }
 }</code></pre>
     </td>
